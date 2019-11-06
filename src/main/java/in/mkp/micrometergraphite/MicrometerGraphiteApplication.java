@@ -9,5 +9,4 @@ public class MicrometerGraphiteApplication {
     public static void main(String[] args) {
         SpringApplication.run(MicrometerGraphiteApplication.class, args);
     }
-
 }
